@@ -8,8 +8,9 @@ body {
 header {
   display: flex;
   align-items: center;
-  padding: 10px 20px;
-  background-color: transparent #1c3244;
+  padding: 20px 20px;
+  background-color: transparent;
+    color: #1100aa;
 }
 
 li {
@@ -35,4 +36,11 @@ button {
   cursor: pointer;
   font-size: 10px;
   position: center;
+}
+
+#title {
+  text-align: center;
+  color: black;
+  font-size: 36px;
+  margin-top: 50px;
 }
