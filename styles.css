@@ -2,8 +2,7 @@ body {
   font-family: Arial, sans-serif;
   margin: 0;
   padding: 0;
-  background-color: #0e0088;
-  bacjkground-image: url('image/SpaceBG.jpg');
+  background-image: url('image/SpaceBG.jpg');
   background-size: cover;
 }
 
