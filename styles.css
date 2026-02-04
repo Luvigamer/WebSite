@@ -5,7 +5,7 @@ body {
   background: #008CB3;
 }
 
-#headernav {
+header {
   display: flex;
   justify-content: space-between;
   align-items: center;
@@ -15,4 +15,23 @@ body {
 
 li {
   list-style-type: none;
+}
+
+footer {
+  background-color: #1c3244;
+  color: white;
+  text-align: center;
+  padding: 10px 0;
+  position: fixed;
+  width: 100%;
+  bottom: 0;
+}
+
+button {
+  background-color: #080052;
+  color: white;
+  border: 2px solid #080052;
+  padding: 10px 20px;
+  cursor: pointer;
+  font-size: 16px;
 }
