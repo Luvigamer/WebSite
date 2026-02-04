@@ -7,18 +7,7 @@ body {
 }
 
 header {
-  padding: 20px 20px;
-  background-color: transparent;
-  opacity: 0.8;
-}  
-
-.headerc {
   display: flex;
-  justify-content: center;
-}
-
-#logo {
-  width: auto;
   justify-content: center;
 }
 
