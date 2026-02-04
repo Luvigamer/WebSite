@@ -15,6 +15,7 @@ header {
 
 li {
   list-style-type: none;
+  width: auto;
 }
 
 footer {
