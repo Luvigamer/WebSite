@@ -12,3 +12,7 @@ body {
   padding: 10px 20px;
   background-color: #1c3244;
 }
+
+li {
+  list-style-type: none;
+}
