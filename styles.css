@@ -16,6 +16,12 @@ li {
   width: auto;
 }
 
+#logo {
+  width: 200px;
+  height: 200px;
+  margin-left: 20px;
+}
+
 footer {
   background-color: rgba(14, 0, 143, 0.5);
     opacity: 0.5;
