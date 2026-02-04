@@ -17,6 +17,11 @@ header {
   justify-content: center;
 }
 
+#logo {
+  width: auto;
+  justify-content: center;
+}
+
 li {
   list-style-type: none;
   width: auto;
@@ -28,7 +33,6 @@ footer {
   color: white;
   text-align: center;
   padding: 0px 0;
-  position: fixed;
   width: 100%;
   bottom: 0;
 }
