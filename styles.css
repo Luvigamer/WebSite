@@ -8,9 +8,11 @@ body {
 
 header {
   display: flex;
+  justify-content: center;
   padding: 20px 20px;
   background-color: transparent;
   opacity: 0.8;
+
 }
 
 li {
@@ -31,7 +33,7 @@ footer {
 
 button {
   background-color: #0b006d;
-    border: 5px solid #0b006d;
+  border: 20px solid #0b006d;
   opacity: 0.9;
   color: white;
   border-radius: 20px;
@@ -48,7 +50,7 @@ button {
 }
 button:hover {
   background-color: #1503b4;
-  border: 5px solid #0b006d;
+  border: 20px solid #0b006d;
   font-size: 12px;
   width: 100px;
 }
