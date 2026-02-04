@@ -30,10 +30,10 @@ footer {
 }
 
 button {
-  background-color: #1100aa;
+  background-color: #0b006d;
+    border: 5px solid #0b006d;
   opacity: 0.9;
   color: white;
-  border: 20px solid #0b006d;
   border-radius: 20px;
   padding: 2px 2px;
   cursor: pointer;
@@ -47,7 +47,8 @@ button {
   margin-top: 50px;
 }
 button:hover {
-  background-color: #0b006d;
+  background-color: #1503b4;
+  border: 5px solid #0b006d;
   font-size: 12px;
   width: 100px;
 }
